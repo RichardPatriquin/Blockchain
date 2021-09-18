@@ -7,7 +7,7 @@
 
 
 # Initialize ./puppeth command from command line. 
-Documentation of setting up genesis block ![Genesis Block](Screenshots/genesis_block_configured.png)
+Documentation of setting up genesis block ![Genesis Block](Screenshot/genesis_block_configured.png)
 #### Network = quinnet
 #### ChainID = 971
 
@@ -15,7 +15,7 @@ Documentation of setting up genesis block ![Genesis Block](Screenshots/genesis_b
 
 ### ./geth --datadir node1 init quinnet.json
 ### ./geth --datadir node2 init quinnet.json
-Documentation initializing the nodes ![Initialize Nodes](Screenshots/initialise_nodes.png)
+Documentation initializing the nodes ![Initialize Nodes](Screenshot/initialise_nodes.png)
 #
 #
 ## Run Nodes in seperate terminals to begin mining. 
@@ -42,6 +42,6 @@ Documentation initializing the nodes ![Initialize Nodes](Screenshots/initialise_
 #
 #
 ## After both terminals are running both nodes, create "custom" network and attach "keynote" file from node 1 to network. 
- * See screenshots folder on ```add_custom_network.mov```
+ * See screenshot folder on ```add_custom_network.mov```
 
 
