@@ -7,7 +7,7 @@
 
 
 # Initialize ./puppeth command from command line. 
-Documentation of setting up genesis block ![Genesis Block](Screenshot/genesis_block_configured.png)
+Documentation of setting up genesis block ![Genesis Block](Screenshot/genesis_block_confirmed.png)
 #### Network = quinnet
 #### ChainID = 971
 
